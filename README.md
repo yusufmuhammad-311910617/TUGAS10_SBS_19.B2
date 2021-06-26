@@ -11,9 +11,9 @@ BACKUP $ RESTORE
 ## 1. Backup & Restore menggunakan perintah SQL :
 
 ## Backup Data :
-![basis 10 1](https://user-images.githubusercontent.com/81587959/123519029-1729f000-d6d3-11eb-9069-83f415b4bd78.PNG)
-![basis pert 10 a](https://user-images.githubusercontent.com/81587959/123519037-1e50fe00-d6d3-11eb-82ab-e6e825978050.PNG)
-![basis pert 10 b](https://user-images.githubusercontent.com/81587959/123519041-2315b200-d6d3-11eb-897d-08540bdf84cd.PNG)
+![1](https://user-images.githubusercontent.com/81587959/123519884-0f207f00-d6d8-11eb-9450-96d87ccfc58b.PNG)
+![2](https://user-images.githubusercontent.com/81587959/123519887-121b6f80-d6d8-11eb-9478-b0ddd6721921.PNG)
+![3](https://user-images.githubusercontent.com/81587959/123519890-15166000-d6d8-11eb-82c3-975cffcb7395.PNG)
 
 ## Restore Data :
-![basis pert 10 c](https://user-images.githubusercontent.com/81587959/123519061-49d3e880-d6d3-11eb-80db-9156e0aba7d5.PNG)
+![4](https://user-images.githubusercontent.com/81587959/123519895-18115080-d6d8-11eb-8dc8-8d2aa5eabb19.PNG)
