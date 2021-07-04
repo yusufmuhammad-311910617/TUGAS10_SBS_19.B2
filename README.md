@@ -30,6 +30,11 @@ BACKUP $ RESTORE
 
 
 
+<hr>
+
+## 3. Sript Perintah Backup menggunakan cron job :
+
+## 00**7mysqldump -u root -p yusuf_311910617 > backup_yusuf_311910617.sql
 
 
 
